@@ -5,7 +5,9 @@
 
 ![alt text](https://github.com/AdrianGehrig/Adrians_tolles_Systemanalyse_Tool/blob/master/Readme.png "Beispiel")
 
-
+## How to start?
+1. Download the whole repository
+2. run **"Adrians_tolles_Systemanalyse_toolV3_5.m"** in MATLAB
 ## Features:
 * Beliebige Übertragungsfunktion in ähnlicher Syntax einfügen: 
 ```matlab
@@ -20,4 +22,5 @@
 * Frequenzeinheit einstellbar: rad/s oder Hz
 * Anzuzeigende Nachkommastellen einstellbar
 * Schriftgröße einstellbar
+* Autostart der Berechnungen ein / ausschalten
 * Legende und lustige Bilder
